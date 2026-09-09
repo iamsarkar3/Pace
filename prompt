@@ -104,8 +104,8 @@ Example:
 
 ## &#x20;Skills Rules
 
-- Write all skills in bullet points.
-- If a Technical Skills section already exists, organize it into bullet points.
+- Write all skills in bullet points,
+- If a  Skills section already exists, organize it into bullet points. every single skills is in single bullet points .
 - If it does not exist, extract skills only from the existing resume (experience, projects, certifications, etc.).
 - Never add a skill that is not already present somewhere in the resume.
 
@@ -137,3 +137,7 @@ Job Title
 - Preserve all original bullet points
 - Focus on professional formatting, grammar, and keyword alignment
 - The final output must be ready to copy directly into Microsoft Word with Calibri 11, Narrow margins, and No Spacing style.
+
+and one more thing , when you use bold there , First letter of every word uppercase; remaining letters lowercase
+
+name of person is also is bold and in center of the page , 
